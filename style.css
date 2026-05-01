@@ -812,3 +812,12 @@ nav ul .fa-solid{
     flex-basis: 100%;
 }
 }
+.step-title {
+  color: #e67e22;
+  font-weight: 700;
+}
+
+ol li {
+  margin-bottom: 8px;
+  line-height: 1.2;
+}
