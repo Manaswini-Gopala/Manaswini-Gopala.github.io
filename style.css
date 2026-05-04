@@ -60,15 +60,15 @@ nav ul li a:hover::after{
     margin-top: 20%;
     font-size: 30px;
 }
-.header-text p{color: #fff;}
+.header-text p{color: #b5cdeb;}
 p{
-    color: #fff;
+    color: #b5cdeb;
 }
 
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
-    color: #faf9f6;
+    color: #b5cdeb;
 }
 .header-text h1 span{
   color: #de9444;  
@@ -467,15 +467,15 @@ nav ul li a:hover::after{
     margin-top: 20%;
     font-size: 30px;
 }
-.header-text p{color: #fff;}
+.header-text p{color: #b5cdeb;}
 p{
-    color: #fff;
+    color: #b5cdeb;
 }
 
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
-    color: #faf9f6;
+    color: #b5cdeb;
 }
 .header-text h1 span{
   color: #de9444;  
