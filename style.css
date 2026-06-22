@@ -60,15 +60,15 @@ nav ul li a:hover::after{
     margin-top: 20%;
     font-size: 30px;
 }
-.header-text p{color: #b5cdeb;}
+.header-text p{color: #fff;}
 p{
-    color: #b5cdeb;
+    color: #fff;
 }
 
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
-    color: #b5cdeb;
+    color: #faf9f6;
 }
 .header-text h1 span{
   color: #de9444;  
@@ -214,16 +214,19 @@ p{
     grid-gap:40px;
     margin-top: 50px;
 }
-.work{
+.work {
     border-radius: 10px;
-    position:relative;
+    position: relative;
     overflow: hidden;
+    aspect-ratio: 2 / 3;
 }
 
-.work img{
+.work img {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
     border-radius: 10px;
-    display:block;
+    display: block;
     transition: transform 0.5s;
 }
 .layer
@@ -467,15 +470,15 @@ nav ul li a:hover::after{
     margin-top: 20%;
     font-size: 30px;
 }
-.header-text p{color: #b5cdeb;}
+.header-text p{color: #fff;}
 p{
-    color: #b5cdeb;
+    color: #fff;
 }
 
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
-    color: #b5cdeb;
+    color: #faf9f6;
 }
 .header-text h1 span{
   color: #de9444;  
